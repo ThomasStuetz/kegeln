@@ -3,7 +3,7 @@
 inputPath="$1"
 createSlides="$2"
 source $inputPath/scripts/docker-convert-util.sh
-ASCIIDOCTOR_VERSION="1.58"
+ASCIIDOCTOR_VERSION="1.101"
 
 echo "input => $inputPath"
 echo "createSlides => $createSlides"
